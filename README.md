@@ -26,8 +26,8 @@ This Python automation:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/vivienphang/csv_excel_automation.git
-   cd csv_excel_automation
+   git clone https://github.com/vivienphang/excel_csv_automation.git
+   cd excel_csv_automation
    ```
 
 ## Project References
